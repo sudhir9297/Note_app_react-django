@@ -41,6 +41,8 @@ Make Sure you Have the following things Installed on your Machines.
 - Now Run the server
   > python manage.py runserver
   
+if you want to see in database head over to the IP in terminal After running above server Command and add `/api/` in IP address of browser in my case its `http://127.0.0.1:8000/api/`
+  
 ### Now Change the Directory to `/note_project/frontend/ ` and run below commands
 
 - install `React-Websockets`
