@@ -66,11 +66,6 @@ and you are good to go.
 
 Enjoy!
   
-## Realtime Editing side by side
-<p align="left">
-  <img  src="https://user-images.githubusercontent.com/19578447/66978341-34698700-f0c7-11e9-8c69-e0b28a70ccea.gif">
-</p>
-
 
 
 
