@@ -13,7 +13,7 @@ So here We are using
 
 ### Functionality this App Includes are
 - Adding of the Notes
-- Realtime Editing of Notes
+- Realtime Editing of Notes (To do this just open same IP on different tab Side By Side and check out the Changes in realtime ).
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
